@@ -1,7 +1,7 @@
 # repo_1
 This is my repo1
 <br>
-Author - Keshab
+<b>Author</b> - Keshab
 <br>
 <br>
-Version - 1.0
+<b>Version</b> - 1.0
